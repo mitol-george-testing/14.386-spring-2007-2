@@ -1,0 +1,31 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Econometrics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "52cd6ea0-e37d-3f4a-b4b0-3f914a38c6bd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "New Econometric Methods",
+  "course_description": "This course focuses on recent developments in econometrics, especially structural estimation. The topics include nonseparable models, models of imperfect competition, auction models, duration models, and nonlinear panel data. Results are illustrated with economic applications.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.386",
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
